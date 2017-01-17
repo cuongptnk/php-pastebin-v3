@@ -1,0 +1,11 @@
+Lâu r ko post bài tụt rank kinh quá thôi post bừa vài bài cho đỡ bị ra đảo :3
+Đây là source code của pastebin cho mấy bác nào cần, cũng ko hiếm hoi gì, hàng mạng thôi nhưng share cho ace nào chưa rõ. Hướng dẫn cài:
+1 - Tạo một Database SQL
+2 - Tìm tới file libs/db.php rồi chỉnh thông tin db của bạn vô
+3 - Rồi chmod 777 cache/* và cache/compile_tpl/*
+4 - Mở libs/bd.sql và tìm dòng http://localhost sau đó thay tên miền của bạn vô
+5 - Vào website 
+6 - Xong cài xong thì xóa install.php và libs/db.sql
+7 - Đổi tên htaccess.txt thành .htaccess
+8 - Admin account: admin:admin
+Nếu ai chưa biết chmod thì tham khảo : https://thachpham.com/hosting…/chmod-co-ban-tren-cpanel.html của bác Thạch Phạm nhaá.
